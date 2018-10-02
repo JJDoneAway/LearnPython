@@ -4,7 +4,7 @@
 
 - [Simple Code & Exceptions](./CheatSheets/SimpleCode.ipynb)
 - [Functions](./CheatSheets/Functions.ipynb)
-- classes
+- [Classes](./CheatSheets/Classes.ipynb)
 - modules
 
 ## Folw Controll
