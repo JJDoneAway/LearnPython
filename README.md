@@ -2,8 +2,8 @@
 
 ## Code structure elements
 
-- [Simple Code] <./master/CheatSheets/SimpleCode.ipynb>
-- [Functions] <./master/CheatSheets/Functions.ipynb>
+- [Simple Code](./master/CheatSheets/SimpleCode.ipynb)
+- [Functions](./master/CheatSheets/Functions.ipynb)
 - classes
 - modules
 
