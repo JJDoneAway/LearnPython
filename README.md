@@ -1,19 +1,19 @@
-# This is a collection of cheet sheets for the Python syntax and the core features
+# cheet sheets for the Python syntax and the core features
 
 ## Code structure elements
---------------------------
-- [./master/CheatSheets/Functions.ipynb]
-- [./master/CheatSheets/SimpleCode.ipynb]
+
+- [Simple Code] (./master/CheatSheets/SimpleCode.ipynb)
+- [Functions] (./master/CheatSheets/Functions.ipynb)
 - classes
 - modules
 
 ## Folw Controll
-----------------
+
 - Loops
 - if statements
 
 ## Datatypes
-------------
+
 - Simple Types
 - Collections
 
