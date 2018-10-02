@@ -2,7 +2,7 @@
 
 ## Code structure elements
 
-- [Simple Code](./CheatSheets/SimpleCode.ipynb)
+- [Simple Code & Exceptions](./CheatSheets/SimpleCode.ipynb)
 - [Functions](./CheatSheets/Functions.ipynb)
 - classes
 - modules
